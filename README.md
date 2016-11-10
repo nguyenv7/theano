@@ -1,1 +1,1 @@
-# theano
+# Some Deep Learning algorithms implementation
