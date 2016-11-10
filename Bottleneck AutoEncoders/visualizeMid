@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Nov  9 17:30:10 2016
+
+@author: nguyenv7
+"""
+
+with open(filename, 'rb') as infile:
+    tr_acc = pickle.load(infile)
